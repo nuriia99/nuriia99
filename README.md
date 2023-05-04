@@ -19,7 +19,6 @@ Git and Github
 
 If you want to know more about my work, you can check:
 
-Github profile: https://github.com/nuriia99 
 Gmail: nurianton1999@gmail.com.
 LinkedIn: https://www.linkedin.com/in/nuria-anton
 
