@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there 👋, my name is Nuria
+#### I am a Front-End Web Developer
+Here you can find all the code of the personal projects I've been working in. If you want to know more about them, I recommend you to visit my personal website, which is https://dev-nuriia99.vercel.app/ to try the demo by your own! 
 
-<!--
-**nuriia99/nuriia99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###### Programming lenguages: 
+Java, Javascript, PHP, C++ and C#
+###### Databases: 
+MYSQL, postgreSQL and MongoDB
+###### Web Programming Techs: 
+HTML, CSS, SASS and React
+###### React Techs: 
+Typescript, Redux, Next
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+##### 📧 CONTACT 📧
+
+If you want to know more about my work, you can check:
+
+Github profile: https://github.com/nuriia99 
+Gmail: nurianton1999@gmail.com.
+LinkedIn: https://www.linkedin.com/in/nuria-anton
+
+
+
+
