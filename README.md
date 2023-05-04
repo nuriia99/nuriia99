@@ -4,12 +4,14 @@ Here you can find all the code of the personal projects I've been working in. If
 
 ###### Programming lenguages: 
 Java, Javascript, PHP, C++ and C#
-###### Databases: 
-MYSQL, postgreSQL and MongoDB
 ###### Web Programming Techs: 
 HTML, CSS, SASS and React
 ###### React Techs: 
 Typescript, Redux, Next
+###### Databases: 
+MYSQL, postgreSQL and MongoDB
+###### Version Control Techs:
+Git and Github
 
 
 
