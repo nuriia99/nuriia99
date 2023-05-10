@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Nuria
-#### I am a Front-End Web Developer
+#### I am a FullStack Web Developer
 Here you can find all the code of the personal projects I've been working in. If you want to know more about them, I recommend you to visit my personal website, which is https://dev-nuriia99.vercel.app/ to try the demo by your own! 
 
 ###### Programming lenguages: 
