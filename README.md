@@ -1,13 +1,11 @@
 ### Hi there 👋, my name is Nuria
-#### I am a FullStack Web Developer
-Here you can find all the code of the personal projects I've been working in. If you want to know more about them, I recommend you to visit my personal website, which is https://dev-nuriia99.vercel.app/ to try the demo by your own! 
+#### I am a intermediate software engineer
+Here you can find all the code of the personal projects I've been working in. If you want to know more about them, I recommend you to visit my personal website, which is https://dev-nuriia99-portfolio.vercel.app/ to try the demo by your own! 
 
 ###### Programming lenguages: 
-Java, Javascript, PHP, C++ and C#
-###### Web Programming Techs: 
-HTML, CSS, SASS and React
-###### React Techs: 
-Typescript, Redux, Next
+C#, .NET, Java, Javascript, Typescript
+###### Cloud Platforms:: 
+Amazon Web Services, Azure Devops
 ###### Databases: 
 MYSQL, postgreSQL and MongoDB
 ###### Version Control Techs:
