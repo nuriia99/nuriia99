@@ -4,7 +4,7 @@ Here you can find all the code of the personal projects I've been working in. If
 
 ###### Programming lenguages: 
 C#, .NET, Java, Javascript, Typescript
-###### Cloud Platforms:: 
+###### Cloud Platforms:
 Amazon Web Services, Azure Devops
 ###### Databases: 
 MYSQL, postgreSQL and MongoDB
